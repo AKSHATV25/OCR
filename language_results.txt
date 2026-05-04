@@ -1,0 +1,3 @@
+['English', 'Hello world', 0.989]
+['Hindi', 'N A M A S TEvin Dafte', 0.803]
+['Hindi', 'pht', 0.619]

@@ -1,0 +1,7 @@
+streamlit
+paddleocr
+opencv-python
+numpy
+Pillow
+pdf2image
+pandas

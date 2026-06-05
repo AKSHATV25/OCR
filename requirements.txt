@@ -1,6 +1,7 @@
 streamlit
 paddleocr
-opencv-python
+paddlepaddle
+opencv-python-headless
 numpy
 Pillow
 pdf2image

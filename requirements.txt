@@ -1,7 +1,9 @@
 streamlit
-paddleocr
+easyocr
 opencv-python-headless
 numpy
 Pillow
 pdf2image
 pandas
+torch
+torchvision
